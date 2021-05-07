@@ -1,0 +1,35 @@
+.about-card {
+    background-color: white;
+    height: 600px;
+    width: 50%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.title-cont {
+ flex: 1;
+}
+
+.info-cont {
+ flex: 9;
+}
+
+.about-p {
+    font-size: 20px;
+}
+
+.test-cont {
+    display: flex;
+    justify-content: space-evenly;
+}
+.test {
+    background-color: tan;
+    width: 100%;
+    height: 100px;
+}

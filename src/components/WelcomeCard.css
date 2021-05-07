@@ -1,0 +1,15 @@
+.welcome-card {
+    background-color: black;
+    height: 450px;
+    width: '100%';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.card-cont {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly
+}

@@ -1,0 +1,26 @@
+.header-cont {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: #323845;
+
+}
+
+.nav {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+.scrolled{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: #323845;
+}
+  .logo img{
+    width: 50px;
+  }
