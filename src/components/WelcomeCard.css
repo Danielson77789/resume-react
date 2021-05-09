@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@700&display=swap');
 .welcome-card {
-    background-color: black;
+    background-image: url('../assets/images/programming-blue-full.jpg.svg');
+    background-size: auto;
+    background-repeat: no-repeat;
     height: 450px;
     width: '100%';
     display: flex;
@@ -12,4 +15,21 @@
     display: flex;
     justify-content: center;
     justify-content: space-evenly
+}
+
+.name-cont {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-items:center;
+}
+
+.name {
+    font-size: 84px;
+    font-family: 'Montserrat Subrayda';
+    margin-bottom: -20px;
+}
+
+.title {
+    padding-bottom: 20px;
 }

@@ -4,10 +4,15 @@ function WelcomeCard() {
   return (
   <div className="welcome-card">
     <div className="card-cont">
-      <p>
-        Daniel Peterson
-      </p>
-      <p>
+      <div className='name-cont'>
+        <p className='name'>
+          Daniel<br/>Peterson
+        </p>
+        <p className='title'>
+          Computer Science Student
+        </p>
+      </div>
+      <p className='name'>
         Test
       </p>
     </div>
