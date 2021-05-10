@@ -9,6 +9,7 @@
     flex-direction: column;
     justify-content: center;
     color: white;
+    padding-bottom: 200px;
 }
 
 .card-cont {
